@@ -8,3 +8,5 @@ This project implements a Convolutional Neural Network (CNN) using Keras to clas
 - **Flatten**: Converts the 2D feature maps into a 1D vector.
 - **Dense**: Fully connected layer for classification.
 - **ReLU**: Outputs the final probability for binary classification.
+
+Dataset Download Link: https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
